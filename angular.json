@@ -57,6 +57,8 @@
             "styles": [
               "node_modules/admin-lte/plugins/fontawesome-free/css/all.min.css",
               "node_modules/admin-lte/plugins/icheck-bootstrap/icheck-bootstrap.min.css",
+              "node_modules/admin-lte/plugins/select2/css/select2.min.css",
+              "node_modules/admin-lte/plugins/bs-stepper/css/bs-stepper.min.css",
               "node_modules/admin-lte/dist/css/adminlte.min.css",
               "node_modules/admin-lte/plugins/overlayScrollbars/css/OverlayScrollbars.min.css",
               "src/styles.scss"
@@ -64,7 +66,9 @@
             "scripts": [
               "node_modules/admin-lte/plugins/jquery/jquery.min.js",
               "node_modules/admin-lte/plugins/bootstrap/js/bootstrap.bundle.min.js",
+              "node_modules/admin-lte/plugins/select2/js/select2.full.min.js",
               "node_modules/admin-lte/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js",
+              "node_modules/admin-lte/plugins/bs-stepper/js/bs-stepper.min.js",
               "node_modules/admin-lte/dist/js/adminlte.js"
             ]
           },

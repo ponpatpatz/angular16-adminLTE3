@@ -11,6 +11,6 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   constructor() {
-    document.body.className = 'sidebar-mini layout-fixed';
+    document.body.className = 'sidebar-mini layout-fixed layout-navbar-fixed';
   }
 }
