@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+/* <link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,400;1,500&amp;display=swap" rel="stylesheet"> */
+
+/* CSS Document */
+/* @import url(https://fonts.googleapis.com/css?family=Kanit:200&subset=thai,latin); */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai&display=swap'); */
+
+/* @import url('https: //fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,400;1,500&amp;display=swap'); */
+
+@font-face {
+  font-family: 'sarabun';
+  src: url('./Sarabun-Regular.ttf');
+}
+
+ @font-face {
+  font-family: 'ksp-bold-italic';
+  src: url('./ksp-bold-italic.ttf');
+}
+
+@font-face {
+  font-family: 'ksp-bold';
+  src: url('./ksp-bold.ttf');
+}
+
+@font-face {
+  font-family: 'ksp-italic';
+  src: url('./ksp-italic.ttf');
+}
+
+@font-face {
+  font-family: 'ksp-regular';
+  src: url('./ksp-regular.ttf');
+}
+
+@font-face {
+  font-family: 'BaiJamjuree';
+  src: url('./BaiJamjuree-Regular.ttf');
+}
